@@ -64,4 +64,3 @@ For any inquiries, please contact **Hriday Ranjan Dutta**.
 ---
 
 **Disclaimer**: This utility is provided "as is", without any warranty of any kind.
-```
