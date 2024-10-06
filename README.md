@@ -30,6 +30,7 @@ This project is a Windows application that allows users to view and filter IIS l
    ```sql
    SELECT [date], [time], [cs-method], [cs-uri-stem] WHERE [time-taken] > 200
    ```
+   ```WHERE <tablename>``` is not required.
 5. Click the **Execute Query** button to filter the data.
 6. Use the **File -> Export** menu button to save the filtered logs.
 
